@@ -1,0 +1,19 @@
+{
+  "name": "aws-faq",
+  "version": "1.0.0",
+  "description": "AWS Product FAQ consolidated listing for certification exam prep.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "aws",
+    "cloud",
+    "certifications",
+    "faq",
+    "products",
+    "appendix"
+  ],
+  "author": "Dev Bhosale",
+  "license": "ISC"
+}

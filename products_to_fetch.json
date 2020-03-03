@@ -1,0 +1,726 @@
+[
+  {
+    "product_name": "Amazon Lightsail",
+    "product_faq_url": "https://aws.amazon.com/lightsail/faq/?nc2=h_ql_prod_fs_ls"
+  },
+  {
+    "product_name": "Amazon Athena",
+    "product_faq_url": "https://aws.amazon.com/athena/faqs/?nc2=h_ql_prod_an_ath"
+  },
+  {
+    "product_name": "Amazon CloudSearch",
+    "product_faq_url": "https://aws.amazon.com/cloudsearch/faqs/?nc2=h_ql_prod_an_cs"
+  },
+  {
+    "product_name": "Amazon Elasticsearch Service",
+    "product_faq_url": "https://aws.amazon.com/elasticsearch-service/faqs/?nc2=h_ql_prod_an_es"
+  },
+  {
+    "product_name": "Amazon EMR",
+    "product_faq_url": "https://aws.amazon.com/emr/faqs/?nc2=h_ql_prod_an_emr"
+  },
+  {
+    "product_name": "Amazon Kinesis",
+    "product_faq_url": "https://aws.amazon.com/kinesis/faqs/?nc2=h_ql_prod_an_kin"
+  },
+  {
+    "product_name": "Amazon Managed Streaming for Apache Kafka",
+    "product_faq_url": "https://aws.amazon.com/msk/faqs/?nc2=h_ql_prod_an_msak"
+  },
+  {
+    "product_name": "Amazon Redshift",
+    "product_faq_url": "https://aws.amazon.com/redshift/faqs/?nc2=h_ql_prod_an_rs"
+  },
+  {
+    "product_name": "Amazon QuickSight",
+    "product_faq_url": "https://aws.amazon.com/quicksight/faqs/?nc2=h_ql_prod_an_qs"
+  },
+  {
+    "product_name": "AWS Data Exchange",
+    "product_faq_url": "https://aws.amazon.com/data-exchange/faqs/?nc2=h_ql_prod_an_dex"
+  },
+  {
+    "product_name": "AWS Data Pipeline",
+    "product_faq_url": "https://aws.amazon.com/datapipeline/faqs/?nc2=h_ql_prod_an_dp"
+  },
+  {
+    "product_name": "AWS Glue",
+    "product_faq_url": "https://aws.amazon.com/glue/faqs/?nc2=h_ql_prod_an_glu"
+  },
+  {
+    "product_name": "AWS Lake Formation",
+    "product_faq_url": "https://aws.amazon.com/lake-formation/faqs/?nc2=h_ql_prod_an_lkf"
+  },
+  {
+    "product_name": "AWS Step Functions",
+    "product_faq_url": "https://aws.amazon.com/step-functions/faqs/?nc2=h_ql_prod_ap_stf"
+  },
+  {
+    "product_name": "Amazon EventBridge",
+    "product_faq_url": "https://aws.amazon.com/eventbridge/faqs/?nc2=h_ql_prod_ap_eb"
+  },
+  {
+    "product_name": "Amazon MQ",
+    "product_faq_url": "https://aws.amazon.com/amazon-mq/faqs/?nc2=h_ql_prod_ap_mq"
+  },
+  {
+    "product_name": "Amazon Simple Notification Service (SNS)",
+    "product_faq_url": "https://aws.amazon.com/sns/faqs/?nc2=h_ql_prod_ap_sns"
+  },
+  {
+    "product_name": "Amazon Simple Queue Service (SQS)",
+    "product_faq_url": "https://aws.amazon.com/sqs/faqs/?nc2=h_ql_prod_ap_sqs"
+  },
+  {
+    "product_name": "AWS AppSync",
+    "product_faq_url": "https://aws.amazon.com/appsync/faqs/?nc2=h_ql_prod_ap_as"
+  },
+  {
+    "product_name": "Amazon Sumerian",
+    "product_faq_url": "https://aws.amazon.com/sumerian/faqs/?nc2=h_ql_prod_ar_sum"
+  },
+  {
+    "product_name": "AWS Cost Management",
+    "product_faq_url": "https://aws.amazon.com/aws-cost-management/faqs/?nc2=h_ql_prod_cm_cos"
+  },
+  {
+    "product_name": "Savings Plans",
+    "product_faq_url": "https://aws.amazon.com/savingsplans/faq/?nc2=h_ql_prod_cm_sav"
+  },
+  {
+    "product_name": "Amazon Managed Blockchain",
+    "product_faq_url": "https://aws.amazon.com/managed-blockchain/faqs/?nc2=h_ql_prod_bl_amb"
+  },
+  {
+    "product_name": "Amazon Quantum Ledger Database (QLDB)",
+    "product_faq_url": "https://aws.amazon.com/qldb/faqs/?nc2=h_ql_prod_bl_qldb"
+  },
+  {
+    "product_name": "Alexa for Business",
+    "product_faq_url": "https://aws.amazon.com/alexaforbusiness/faqs/?nc2=h_ql_prod_ba_alexa"
+  },
+  {
+    "product_name": "Amazon Chime",
+    "product_faq_url": "https://aws.amazon.com/chime/faq/?nc2=h_ql_prod_ba_chim"
+  },
+  {
+    "product_name": "Amazon WorkDocs",
+    "product_faq_url": "https://aws.amazon.com/workdocs/faqs/?nc2=h_ql_prod_ba_wdoc"
+  },
+  {
+    "product_name": "Amazon WorkMail",
+    "product_faq_url": "https://aws.amazon.com/workmail/faqs/?nc2=h_ql_prod_ba_wmail"
+  },
+  {
+    "product_name": "Amazon EC2",
+    "product_faq_url": "https://aws.amazon.com/ec2/faqs/?nc2=h_ql_prod_cp_ec2"
+  },
+  {
+    "product_name": "Amazon EC2 Auto Scaling",
+    "product_faq_url": "https://aws.amazon.com/ec2/autoscaling/faqs/?nc2=h_ql_prod_cp_ec2auto"
+  },
+  {
+    "product_name": "Amazon Elastic Container Registry",
+    "product_faq_url": "https://aws.amazon.com/ecr/faqs/?nc2=h_ql_prod_ct_ec2reg"
+  },
+  {
+    "product_name": "Amazon Elastic Container Service (ECS)",
+    "product_faq_url": "https://aws.amazon.com/ecs/faqs/?nc2=h_ql_prod_ct_ecs"
+  },
+  {
+    "product_name": "Amazon Elastic Kubernetes Service (EKS)",
+    "product_faq_url": "https://aws.amazon.com/eks/faqs/?nc2=h_ql_prod_ct_eks"
+  },
+  {
+    "product_name": "AWS Batch",
+    "product_faq_url": "https://aws.amazon.com/batch/faqs/?nc2=h_ql_prod_cp_ba"
+  },
+  {
+    "product_name": "AWS Elastic Beanstalk",
+    "product_faq_url": "https://aws.amazon.com/elasticbeanstalk/faqs/?nc2=h_ql_prod_cp_ebs"
+  },
+  {
+    "product_name": "AWS Fargate",
+    "product_faq_url": "https://aws.amazon.com/fargate/faqs/?nc2=h_ql_prod_cp_far"
+  },
+  {
+    "product_name": "AWS Lambda",
+    "product_faq_url": "https://aws.amazon.com/lambda/faqs/?nc2=h_ql_prod_cp_lbd"
+  },
+  {
+    "product_name": "AWS Outposts",
+    "product_faq_url": "https://aws.amazon.com/outposts/faqs/?nc2=h_ql_prod_cp_out"
+  },
+  {
+    "product_name": "AWS Serverless Application Repository",
+    "product_faq_url": "https://aws.amazon.com/serverless/serverlessrepo/faqs/?nc2=h_ql_prod_cp_sar"
+  },
+  {
+    "product_name": "AWS Wavelength",
+    "product_faq_url": "https://aws.amazon.com/wavelength/faqs/?nc2=h_ql_prod_cp_wav"
+  },
+  {
+    "product_name": "VMware Cloud on AWS",
+    "product_faq_url": "https://aws.amazon.com/vmware/faqs/?nc2=h_ql_prod_cp_vmw"
+  },
+  {
+    "product_name": "Amazon Connect",
+    "product_faq_url": "https://aws.amazon.com/connect/faqs/?nc2=h_ql_prod_ce_con"
+  },
+  {
+    "product_name": "Amazon Pinpoint",
+    "product_faq_url": "https://aws.amazon.com/pinpoint/faqs/?nc2=h_ql_prod_ce_pin"
+  },
+  {
+    "product_name": "Amazon Simple Email Service (SES)",
+    "product_faq_url": "https://aws.amazon.com/ses/faqs/?nc2=h_ql_prod_ce_ses"
+  },
+  {
+    "product_name": "Contact Lens for Amazon Connect",
+    "product_faq_url": "https://aws.amazon.com/connect/contact-lens/faqs/?nc2=h_ql_prod_ce_clcn"
+  },
+  {
+    "product_name": "Amazon Aurora",
+    "product_faq_url": "https://aws.amazon.com/rds/aurora/faqs/?nc2=h_ql_prod_db_aa"
+  },
+  {
+    "product_name": "Amazon DocumentDB (with MongoDB compatibility)",
+    "product_faq_url": "https://aws.amazon.com/documentdb/faqs/?nc2=h_ql_prod_db_doc"
+  },
+  {
+    "product_name": "Amazon DynamoDB",
+    "product_faq_url": "https://aws.amazon.com/dynamodb/faqs/?nc2=h_ql_prod_db_ddb"
+  },
+  {
+    "product_name": "Amazon ElastiCache",
+    "product_faq_url": "https://aws.amazon.com/elasticache/faqs/?nc2=h_ql_prod_db_elc"
+  },
+  {
+    "product_name": "Amazon Managed Apache Cassandra Service",
+    "product_faq_url": "https://aws.amazon.com/mcs/faqs/?nc2=h_ql_prod_db_mcs"
+  },
+  {
+    "product_name": "Amazon Neptune",
+    "product_faq_url": "https://aws.amazon.com/neptune/faqs/?nc2=h_ql_prod_db_nep"
+  },
+  {
+    "product_name": "Amazon Quantum Ledger Database (QLDB)",
+    "product_faq_url": "https://aws.amazon.com/qldb/faqs/?nc2=h_ql_prod_db_qldb"
+  },
+  {
+    "product_name": "Amazon RDS",
+    "product_faq_url": "https://aws.amazon.com/rds/faqs/?nc2=h_ql_prod_db_rds"
+  },
+  {
+    "product_name": "Amazon RDS on VMware",
+    "product_faq_url": "https://aws.amazon.com/rds/vmware/faqs/?nc2=h_ql_prod_db_rdsvm"
+  },
+  {
+    "product_name": "Amazon Redshift",
+    "product_faq_url": "https://aws.amazon.com/redshift/faqs/?nc2=h_ql_prod_db_rs"
+  },
+  {
+    "product_name": "AWS Database Migration Service",
+    "product_faq_url": "https://aws.amazon.com/dms/faqs/?nc2=h_ql_prod_db_dbm"
+  },
+  {
+    "product_name": "Amazon Corretto",
+    "product_faq_url": "https://aws.amazon.com/corretto/faqs/?nc2=h_ql_prod_dt_cor"
+  },
+  {
+    "product_name": "AWS Cloud Development Kit (CDK)",
+    "product_faq_url": "https://aws.amazon.com/cdk/faqs/?nc2=h_ql_prod_dt_cdk"
+  },
+  {
+    "product_name": "AWS Cloud9",
+    "product_faq_url": "https://aws.amazon.com/cloud9/faqs/?nc2=h_ql_prod_dt_c9"
+  },
+  {
+    "product_name": "AWS CodeBuild",
+    "product_faq_url": "https://aws.amazon.com/codebuild/faqs/?nc2=h_ql_prod_dt_cb"
+  },
+  {
+    "product_name": "AWS CodeCommit",
+    "product_faq_url": "https://aws.amazon.com/codecommit/faqs/?nc2=h_ql_prod_dt_cc"
+  },
+  {
+    "product_name": "AWS CodeDeploy",
+    "product_faq_url": "https://aws.amazon.com/codedeploy/faqs/?nc2=h_ql_prod_dt_cd"
+  },
+  {
+    "product_name": "AWS CodePipeline",
+    "product_faq_url": "https://aws.amazon.com/codepipeline/faqs/?nc2=h_ql_prod_dt_cp"
+  },
+  {
+    "product_name": "AWS CodeStar",
+    "product_faq_url": "https://aws.amazon.com/codestar/faqs/?nc2=h_ql_prod_cstr"
+  },
+  {
+    "product_name": "AWS Device Farm",
+    "product_faq_url": "https://aws.amazon.com/device-farm/faqs/?nc2=h_ql_prod_dt_df"
+  },
+  {
+    "product_name": "AWS X-Ray",
+    "product_faq_url": "https://aws.amazon.com/xray/faqs/?nc2=h_ql_prod_dt_xray"
+  },
+  {
+    "product_name": "Amazon WorkSpaces",
+    "product_faq_url": "https://aws.amazon.com/workspaces/faqs/?nc2=h_ql_prod_eu_wspa"
+  },
+  {
+    "product_name": "Amazon AppStream 2.0",
+    "product_faq_url": "https://aws.amazon.com/appstream2/faqs/?nc2=h_ql_prod_eu_as2"
+  },
+  {
+    "product_name": "Amazon WorkLink",
+    "product_faq_url": "https://aws.amazon.com/worklink/faqs/?nc2=h_ql_prod_eu_wkl"
+  },
+  {
+    "product_name": "Amazon Lumberyard",
+    "product_faq_url": "https://aws.amazon.com/lumberyard/faq/?nc2=h_ql_prod_gt_ly"
+  },
+  {
+    "product_name": "IoT Core",
+    "product_faq_url": "https://aws.amazon.com/iot/faqs/?nc2=h_ql_prod_it_iot"
+  },
+  {
+    "product_name": "AWS IoT 1-Click",
+    "product_faq_url": "https://aws.amazon.com/iot-1-click/faq/?nc2=h_ql_prod_it_1clk"
+  },
+  {
+    "product_name": "AWS IoT Analytics",
+    "product_faq_url": "https://aws.amazon.com/iot-analytics/faq/?nc2=h_ql_prod_it_iota"
+  },
+  {
+    "product_name": "AWS IoT Button",
+    "product_faq_url": "https://aws.amazon.com/iotbutton/faq/?nc2=h_ql_prod_it_iotb"
+  },
+  {
+    "product_name": "AWS IoT Core",
+    "product_faq_url": "https://aws.amazon.com/iot-core/faqs/?nc2=h_ql_prod_it_iotc"
+  },
+  {
+    "product_name": "AWS IoT Device Defender",
+    "product_faq_url": "https://aws.amazon.com/iot-device-defender/faq/?nc2=h_ql_prod_it_dd"
+  },
+  {
+    "product_name": "AWS IoT Device Management",
+    "product_faq_url": "https://aws.amazon.com/iot-device-management/faq/?nc2=h_ql_prod_it_dm"
+  },
+  {
+    "product_name": "AWS IoT Events",
+    "product_faq_url": "https://aws.amazon.com/iot-events/faqs/?nc2=h_ql_prod_it_ev"
+  },
+  {
+    "product_name": "AWS IoT Greengrass",
+    "product_faq_url": "https://aws.amazon.com/greengrass/faqs/?nc2=h_ql_prod_it_gg"
+  },
+  {
+    "product_name": "AWS IoT SiteWise",
+    "product_faq_url": "https://aws.amazon.com/iot-sitewise/faqs/?nc2=h_ql_prod_it_sw"
+  },
+  {
+    "product_name": "AWS IoT Things Graph",
+    "product_faq_url": "https://aws.amazon.com/iot-things-graph/faqs/?nc2=h_ql_prod_it_tg"
+  },
+  {
+    "product_name": "AWS Partner Device Catalog",
+    "product_faq_url": "https://devices.amazonaws.com/faqs/?nc2=h_ql_prod_it_pdc"
+  },
+  {
+    "product_name": "FreeRTOS",
+    "product_faq_url": "https://aws.amazon.com/freertos/faqs/?nc2=h_ql_prod_it_frtos"
+  },
+  {
+    "product_name": "Amazon SageMaker",
+    "product_faq_url": "https://aws.amazon.com/sagemaker/faqs/?nc2=h_ql_prod_ml_sm"
+  },
+  {
+    "product_name": "Amazon Augmented AI",
+    "product_faq_url": "https://aws.amazon.com/augmented-ai/faqs/?nc2=h_ql_prod_ml_aai"
+  },
+  {
+    "product_name": "Amazon CodeGuru (Preview)",
+    "product_faq_url": "https://aws.amazon.com/codeguru/faqs/?nc2=h_ql_prod_ml_cg"
+  },
+  {
+    "product_name": "Amazon Comprehend",
+    "product_faq_url": "https://aws.amazon.com/comprehend/faqs/?nc2=h_ql_prod_ml_comp"
+  },
+  {
+    "product_name": "Amazon Elastic Inference",
+    "product_faq_url": "https://aws.amazon.com/machine-learning/elastic-inference/faqs/?nc2=h_ql_prod_ml_ei"
+  },
+  {
+    "product_name": "Amazon Forecast",
+    "product_faq_url": "https://aws.amazon.com/forecast/faqs/?nc2=h_ql_prod_ml_for"
+  },
+  {
+    "product_name": "Amazon Fraud Detector (Preview)",
+    "product_faq_url": "https://aws.amazon.com/fraud-detector/faqs/?nc2=h_ql_prod_ml_fd"
+  },
+  {
+    "product_name": "Amazon Kendra",
+    "product_faq_url": "https://aws.amazon.com/kendra/faqs/?nc2=h_ql_prod_ml_ken"
+  },
+  {
+    "product_name": "Amazon Lex",
+    "product_faq_url": "https://aws.amazon.com/lex/faqs/?nc2=h_ql_prod_ml_lex"
+  },
+  {
+    "product_name": "Amazon Personalize",
+    "product_faq_url": "https://aws.amazon.com/personalize/faqs/?nc2=h_ql_prod_ml_per"
+  },
+  {
+    "product_name": "Amazon Polly",
+    "product_faq_url": "https://aws.amazon.com/polly/faqs/?nc2=h_ql_prod_ml_poll"
+  },
+  {
+    "product_name": "Amazon Rekognition",
+    "product_faq_url": "https://aws.amazon.com/rekognition/faqs/?nc2=h_ql_prod_ml_rek"
+  },
+  {
+    "product_name": "Amazon SageMaker Ground Truth",
+    "product_faq_url": "https://aws.amazon.com/sagemaker/groundtruth/faqs/?nc2=h_ql_prod_ml_smgt"
+  },
+  {
+    "product_name": "Amazon Textract",
+    "product_faq_url": "https://aws.amazon.com/textract/faqs/?nc2=h_ql_prod_ml_text"
+  },
+  {
+    "product_name": "Amazon Translate",
+    "product_faq_url": "https://aws.amazon.com/translate/faqs/?nc2=h_ql_prod_ml_tl"
+  },
+  {
+    "product_name": "Amazon Transcribe",
+    "product_faq_url": "https://aws.amazon.com/transcribe/faqs/?nc2=h_ql_prod_ml_ts"
+  },
+  {
+    "product_name": "AWS Deep Learning Containers",
+    "product_faq_url": "https://aws.amazon.com/machine-learning/containers/faqs/?nc2=h_ql_prod_ml_con"
+  },
+  {
+    "product_name": "AWS DeepComposer",
+    "product_faq_url": "https://aws.amazon.com/deepcomposer/faq/?nc2=h_ql_prod_ml_dc"
+  },
+  {
+    "product_name": "AWS DeepLens",
+    "product_faq_url": "https://aws.amazon.com/deeplens/faqs/?nc2=h_ql_prod_ml_dl"
+  },
+  {
+    "product_name": "AWS DeepRacer",
+    "product_faq_url": "https://aws.amazon.com/deepracer/faqs/?nc2=h_ql_prod_ml_dr"
+  },
+  {
+    "product_name": "AWS CloudWatch",
+    "product_faq_url": "https://aws.amazon.com/cloudwatch/faqs/?nc2=h_ql_prod_mg_cw"
+  },
+  {
+    "product_name": "AWS Auto Scaling",
+    "product_faq_url": "https://aws.amazon.com/autoscaling/faqs/?nc2=h_ql_prod_mg_as"
+  },
+  {
+    "product_name": "AWS Chatbot",
+    "product_faq_url": "https://aws.amazon.com/chatbot/faqs/?nc2=h_ql_prod_mg_cb"
+  },
+  {
+    "product_name": "AWS CloudFormation",
+    "product_faq_url": "https://aws.amazon.com/cloudformation/faqs/?nc2=h_ql_prod_mg_cf"
+  },
+  {
+    "product_name": "AWS CloudTrail",
+    "product_faq_url": "https://aws.amazon.com/cloudtrail/faqs/?nc2=h_ql_prod_mg_ct"
+  },
+  {
+    "product_name": "AWS Compute Optimizer",
+    "product_faq_url": "https://aws.amazon.com/compute-optimizer/faqs/?nc2=h_ql_prod_mg_opt"
+  },
+  {
+    "product_name": "AWS Config",
+    "product_faq_url": "https://aws.amazon.com/config/faq/?nc2=h_ql_prod_mg_con"
+  },
+  {
+    "product_name": "AWS Control Tower",
+    "product_faq_url": "https://aws.amazon.com/controltower/faqs/?nc2=h_ql_prod_mg_ct"
+  },
+  {
+    "product_name": "AWS Console Mobile Application",
+    "product_faq_url": "https://aws.amazon.com/console/mobile/faqs/?nc2=h_ql_prod_mg_cma"
+  },
+  {
+    "product_name": "AWS License Manager",
+    "product_faq_url": "https://aws.amazon.com/license-manager/faqs/?nc2=h_ql_prod_mg_lm"
+  },
+  {
+    "product_name": "AWS Management Console",
+    "product_faq_url": "https://aws.amazon.com/console/faqs/?nc2=h_ql_prod_mg_mc"
+  },
+  {
+    "product_name": "AWS Managed Services",
+    "product_faq_url": "https://aws.amazon.com/managed-services/faqs/?nc2=h_ql_prod_mg_ms"
+  },
+  {
+    "product_name": "AWS OpsWorks",
+    "product_faq_url": "https://aws.amazon.com/opsworks/faqs/?nc2=h_ql_prod_mg_ow"
+  },
+  {
+    "product_name": "AWS Organizations",
+    "product_faq_url": "https://aws.amazon.com/organizations/faqs/?nc2=h_ql_prod_mg_org"
+  },
+  {
+    "product_name": "AWS Service Catalog",
+    "product_faq_url": "https://aws.amazon.com/servicecatalog/faqs/?nc2=h_ql_prod_mg_sc"
+  },
+  {
+    "product_name": "AWS Trusted Advisor",
+    "product_faq_url": "https://aws.amazon.com/premiumsupport/technology/trusted-advisor/faqs/?nc2=h_ql_prod_mg_ta"
+  },
+  {
+    "product_name": "AWS Well-Architected Tool",
+    "product_faq_url": "https://aws.amazon.com/well-architected-tool/faqs/?nc2=h_ql_prod_mg_wat"
+  },
+  {
+    "product_name": "Amazon Elastic Transcoder",
+    "product_faq_url": "https://aws.amazon.com/elastictranscoder/faqs/?nc2=h_ql_prod_ms_et"
+  },
+  {
+    "product_name": "Amazon Kinesis Video Streams",
+    "product_faq_url": "https://aws.amazon.com/kinesis/video-streams/faqs/?nc2=h_ql_prod_ms_kvs"
+  },
+  {
+    "product_name": "AWS Elemental MediaConnect",
+    "product_faq_url": "https://aws.amazon.com/mediaconnect/faqs/?nc2=h_ql_prod_ms_emc"
+  },
+  {
+    "product_name": "AWS Elemental MediaConvert",
+    "product_faq_url": "https://aws.amazon.com/mediaconvert/faqs/?nc2=h_ql_prod_ms_emcv"
+  },
+  {
+    "product_name": "AWS Elemental MediaLive",
+    "product_faq_url": "https://aws.amazon.com/medialive/faqs/?nc2=h_ql_prod_ms_eml"
+  },
+  {
+    "product_name": "AWS Elemental MediaPackage",
+    "product_faq_url": "https://aws.amazon.com/mediapackage/faqs/?nc2=h_ql_prod_ms_emp"
+  },
+  {
+    "product_name": "AWS Elemental MediaStore",
+    "product_faq_url": "https://aws.amazon.com/mediastore/faqs/?nc2=h_ql_prod_ms_ems"
+  },
+  {
+    "product_name": "AWS Elemental MediaTailor",
+    "product_faq_url": "https://aws.amazon.com/mediatailor/faqs/?nc2=h_ql_prod_ms_emt"
+  },
+  {
+    "product_name": "AWS Migration Hub",
+    "product_faq_url": "https://aws.amazon.com/migration-hub/faqs/?nc2=h_ql_prod_mt_mh"
+  },
+  {
+    "product_name": "AWS Application Discovery Service",
+    "product_faq_url": "https://aws.amazon.com/application-discovery/faqs/?nc2=h_ql_prod_mt_ads"
+  },
+  {
+    "product_name": "AWS Database Migration Service",
+    "product_faq_url": "https://aws.amazon.com/dms/faqs/?nc2=h_ql_prod_mt_dbms"
+  },
+  {
+    "product_name": "AWS DataSync",
+    "product_faq_url": "https://aws.amazon.com/datasync/faqs/?nc2=h_ql_prod_mt_ds"
+  },
+  {
+    "product_name": "AWS Server Migration Service",
+    "product_faq_url": "https://aws.amazon.com/server-migration-service/faqs/?nc2=h_ql_prod_mt_sms"
+  },
+  {
+    "product_name": "AWS Snow Family",
+    "product_faq_url": "https://aws.amazon.com/snow/faqs/?nc2=h_ql_prod_mt_sno"
+  },
+  {
+    "product_name": "AWS Transfer for SFTP",
+    "product_faq_url": "https://aws.amazon.com/sftp/faqs/?nc2=h_ql_prod_mt_sftp"
+  },
+  {
+    "product_name": "AWS Amplify",
+    "product_faq_url": "https://aws.amazon.com/amplify/faqs/?nc2=h_ql_prod_mo_awsa"
+  },
+  {
+    "product_name": "Amazon API Gateway",
+    "product_faq_url": "https://aws.amazon.com/api-gateway/faqs/?nc2=h_ql_prod_mo_apig"
+  },
+  {
+    "product_name": "Amazon Pinpoint",
+    "product_faq_url": "https://aws.amazon.com/pinpoint/faqs/?nc2=h_ql_prod_mo_pp"
+  },
+  {
+    "product_name": "AWS AppSync",
+    "product_faq_url": "https://aws.amazon.com/appsync/faqs/?nc2=h_ql_prod_mo_apps"
+  },
+  {
+    "product_name": "AWS Device Farm",
+    "product_faq_url": "https://aws.amazon.com/device-farm/faqs/?nc2=h_ql_prod_mo_df"
+  },
+  {
+    "product_name": "Amazon VPC",
+    "product_faq_url": "https://aws.amazon.com/vpc/faqs/?nc2=h_ql_prod_nt_avpc"
+  },
+  {
+    "product_name": "Amazon API Gateway",
+    "product_faq_url": "https://aws.amazon.com/api-gateway/faqs/?nc2=h_ql_prod_nt_apig"
+  },
+  {
+    "product_name": "Amazon CloudFront",
+    "product_faq_url": "https://aws.amazon.com/cloudfront/faqs/?nc2=h_ql_prod_nt_cf"
+  },
+  {
+    "product_name": "Amazon Route 53",
+    "product_faq_url": "https://aws.amazon.com/route53/faqs/?nc2=h_ql_prod_nt_r53"
+  },
+  {
+    "product_name": "AWS App Mesh",
+    "product_faq_url": "https://aws.amazon.com/app-mesh/faqs/?nc2=h_ql_prod_nt_appm"
+  },
+  {
+    "product_name": "AWS Cloud Map",
+    "product_faq_url": "https://aws.amazon.com/cloud-map/faqs/?nc2=h_ql_prod_nt_cm"
+  },
+  {
+    "product_name": "AWS Direct Connect",
+    "product_faq_url": "https://aws.amazon.com/directconnect/faqs/?nc2=h_ql_prod_nt_dc"
+  },
+  {
+    "product_name": "AWS Global Accelerator",
+    "product_faq_url": "https://aws.amazon.com/global-accelerator/faqs/?nc2=h_ql_prod_nt_gla"
+  },
+  {
+    "product_name": "AWS Transit Gateway",
+    "product_faq_url": "https://aws.amazon.com/transit-gateway/faqs/?nc2=h_ql_prod_nt_tg"
+  },
+  {
+    "product_name": "AWS VPN",
+    "product_faq_url": "https://aws.amazon.com/vpn/faqs/?nc2=h_ql_prod_nt_avpn"
+  },
+  {
+    "product_name": "Elastic Load Balancing (ELB)",
+    "product_faq_url": "https://aws.amazon.com/elasticloadbalancing/faqs/?nc2=h_ql_prod_nt_elb"
+  },
+  {
+    "product_name": "Amazon Braket",
+    "product_faq_url": "https://aws.amazon.com/braket/faqs/?nc2=h_ql_prod_qt_br"
+  },
+  {
+    "product_name": "AWS RoboMaker",
+    "product_faq_url": "https://aws.amazon.com/robomaker/faqs/?nc2=h_ql_prod_ro_rm"
+  },
+  {
+    "product_name": "AWS Ground Station",
+    "product_faq_url": "https://aws.amazon.com/ground-station/faqs/?nc2=h_ql_prod_sa_ags"
+  },
+  {
+    "product_name": "AWS Identity and Access Management (IAM)",
+    "product_faq_url": "https://aws.amazon.com/iam/faqs/?nc2=h_ql_prod_se_iam"
+  },
+  {
+    "product_name": "Amazon Cognito",
+    "product_faq_url": "https://aws.amazon.com/cognito/faqs/?nc2=h_ql_prod_se_cog"
+  },
+  {
+    "product_name": "Amazon Detective",
+    "product_faq_url": "https://aws.amazon.com/detective/faqs/?nc2=h_ql_prod_se_ad"
+  },
+  {
+    "product_name": "Amazon GuardDuty",
+    "product_faq_url": "https://aws.amazon.com/guardduty/faqs/?nc2=h_ql_prod_se_gd"
+  },
+  {
+    "product_name": "Amazon Inspector",
+    "product_faq_url": "https://aws.amazon.com/inspector/faqs/?nc2=h_ql_prod_se_in"
+  },
+  {
+    "product_name": "Amazon Macie",
+    "product_faq_url": "https://aws.amazon.com/macie/faq/?nc2=h_ql_prod_se_ma"
+  },
+  {
+    "product_name": "AWS Artifact",
+    "product_faq_url": "https://aws.amazon.com/artifact/faq/?nc2=h_ql_prod_se_ar"
+  },
+  {
+    "product_name": "AWS Certificate Manager",
+    "product_faq_url": "https://aws.amazon.com/certificate-manager/faqs/?nc2=h_ql_prod_se_cm"
+  },
+  {
+    "product_name": "AWS CloudHSM",
+    "product_faq_url": "https://aws.amazon.com/cloudhsm/faqs/?nc2=h_ql_prod_se_chsm"
+  },
+  {
+    "product_name": "AWS Directory Service",
+    "product_faq_url": "https://aws.amazon.com/directoryservice/faqs/?nc2=h_ql_prod_se_ds"
+  },
+  {
+    "product_name": "AWS Firewall Manager",
+    "product_faq_url": "https://aws.amazon.com/firewall-manager/faqs/?nc2=h_ql_prod_se_fm"
+  },
+  {
+    "product_name": "AWS Key Management Service",
+    "product_faq_url": "https://aws.amazon.com/kms/faqs/?nc2=h_ql_prod_se_kms"
+  },
+  {
+    "product_name": "AWS Resource Access Manager",
+    "product_faq_url": "https://aws.amazon.com/ram/faqs/?nc2=h_ql_prod_se_ram"
+  },
+  {
+    "product_name": "AWS Secrets Manager",
+    "product_faq_url": "https://aws.amazon.com/secrets-manager/faqs/?nc2=h_ql_prod_se_sm"
+  },
+  {
+    "product_name": "AWS Security Hub",
+    "product_faq_url": "https://aws.amazon.com/security-hub/faqs/?nc2=h_ql_prod_se_sh"
+  },
+  {
+    "product_name": "AWS Shield",
+    "product_faq_url": "https://aws.amazon.com/shield/faqs/?nc2=h_ql_prod_se_shi"
+  },
+  {
+    "product_name": "AWS Single Sign-On",
+    "product_faq_url": "https://aws.amazon.com/single-sign-on/faqs/?nc2=h_ql_prod_se_sso"
+  },
+  {
+    "product_name": "AWS WAF",
+    "product_faq_url": "https://aws.amazon.com/waf/faqs/?nc2=h_ql_prod_se_waf"
+  },
+  {
+    "product_name": "Amazon Simple Storage Service (S3)",
+    "product_faq_url": "https://aws.amazon.com/s3/faqs/?nc2=h_ql_prod_st_s3"
+  },
+  {
+    "product_name": "Amazon Elastic Block Store (EBS)",
+    "product_faq_url": "https://aws.amazon.com/ebs/faqs/?nc2=h_ql_prod_st_ebs"
+  },
+  {
+    "product_name": "Amazon Elastic File System (EFS)",
+    "product_faq_url": "https://aws.amazon.com/efs/faq/?nc2=h_ql_prod_st_efs"
+  },
+  {
+    "product_name": "Amazon FSx for Lustre",
+    "product_faq_url": "https://aws.amazon.com/fsx/lustre/faqs/?nc2=h_ql_prod_st_fsxl"
+  },
+  {
+    "product_name": "Amazon FSx for Windows File Server",
+    "product_faq_url": "https://aws.amazon.com/fsx/windows/faqs/?nc2=h_ql_prod_st_fsxw"
+  },
+  {
+    "product_name": "Amazon S3 Glacier",
+    "product_faq_url": "https://aws.amazon.com/glacier/faqs/?nc2=h_ql_prod_st_s3g"
+  },
+  {
+    "product_name": "AWS Backup",
+    "product_faq_url": "https://aws.amazon.com/backup/faqs/?nc2=h_ql_prod_st_bu"
+  },
+  {
+    "product_name": "AWS Snow Family",
+    "product_faq_url": "https://aws.amazon.com/snow/faqs/?nc2=h_ql_prod_st_sf"
+  },
+  {
+    "product_name": "AWS Storage Gateway",
+    "product_faq_url": "https://aws.amazon.com/storagegateway/faqs/?nc2=h_ql_prod_st_sg"
+  }
+]

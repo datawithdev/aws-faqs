@@ -1,0 +1,7 @@
+main .lb-sticky-sidebar, main .lb-sticky-sidebar-modern { display:none; }
+main .lb-none-pad.lb-grid { display:none; }
+main .lb-sticky-sidebar { display:none; }
+header, footer   { display:none; }
+.lb-btn { display:none}
+#aws-page-content .lb-breadcrumbs ul { display:none; }
+#aws-page-content .lb-bg-right-bottom-cover { background-image: none !important;}
